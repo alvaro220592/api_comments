@@ -1,0 +1,3 @@
+esse sistema é uma api para ser consumida
+
+vai ter 1 tabela só pra nome e comentario
